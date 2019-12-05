@@ -10,7 +10,7 @@
 const char ssid[]="";
 const char pass[]="";
 const char host[]="";
-const int port = ;
+const int port = 10001;
 const char* ntp_server="ntp.nict.jp";
 unsigned long last_sync_time=0;
 int connect_count=0;
